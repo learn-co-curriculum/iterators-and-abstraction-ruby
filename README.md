@@ -6,6 +6,10 @@ type: tutorial
 
 # Enumeration and Iteration
 
+![Picasso on Abstraction](http://ironboard-curriculum-content.s3.amazonaws.com/web-development/abstraction-bull.jpg)
+_Picasso on Abstraction_
+_Notice that the details of the bull are removed and the image is still identifiably a bull_
+
 ## `loop` - The Least Abstract
 
 Let's talk about the algorithm required to go through all the individual items in a set.
@@ -64,6 +68,8 @@ end
 What we did here was first combine step 3 and 4, initializing our loop based on a condition, which is exactly what the word `while`, both in code and in english, means, it is a conditional loop. Abstraction didn't make our code less clear, it in fact made our code absolutely precise. Brevity for the sake of brevity is silly, our is to always express ourselves as clearly and honestly as possible. Because our loop is conditional from the start, by using the while loop mechanism, we don't need to explicitly break out of it, making step 5 implicit.
 
 ## `each` - The Most Abstract
+
+> "Being abstract is something profoundly different from being vague... The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise." Edsger Dijkstra
 
 ```ruby
 basket = ["apple 1","apple 2","apple 3","apple 4","apple 5","apple 6","apple 7","apple 8","apple 9","apple 10"]
