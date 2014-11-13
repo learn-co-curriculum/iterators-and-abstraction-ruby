@@ -7,6 +7,7 @@ type: tutorial
 # Enumeration and Iteration
 
 ![Picasso on Abstraction](http://ironboard-curriculum-content.s3.amazonaws.com/web-development/abstraction-bull.jpg)
+
 _Picasso on Abstraction_
 _Notice that the details of the bull are removed and the image is still identifiably a bull_
 
