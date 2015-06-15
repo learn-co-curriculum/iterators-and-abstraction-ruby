@@ -1,9 +1,3 @@
----
-tags: iteration, abstraction, loops, enumeration
-language: ruby
-type: tutorial
----
-
 # Enumeration and Iteration
 
 ![Picasso on Abstraction](http://ironboard-curriculum-content.s3.amazonaws.com/web-development/abstraction-bull.jpg)
@@ -11,6 +5,18 @@ type: tutorial
 _Picasso on Abstraction_
 
 _Notice that the details of the bull are removed and the image is still identifiably a bull_
+
+## Objectives
+1. Understand the concept of iteration 
+2. Understand simple iteration or looping
+3. Get an introduction to complex iteration
+
+## Iteration vs. Looping
+
+We've already covered basic looping and you can refresh your memory [here](https://github.com/learn-co-curriculum/simple-loops). Now that you're all brushed up on simple looping, let's discuss the difference between looping and a new concept––iteration. **Looping** occurs when you tell your program to do something a certain number of times. **Iteration** occurs when you have a collection of data (for example, an array), and you operate on each member of that collection. 
+
+For example, if I tell my program to print out the phrase "I love programming" 5 times, that's a loop. If I tell my program to enumerate over the array `[1, 2, 3, 4, 5]` and add 10 to each number, that's iteration. 
+
 
 ## `loop` - The Least Abstract
 
