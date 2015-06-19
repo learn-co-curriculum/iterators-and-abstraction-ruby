@@ -13,7 +13,7 @@ _Notice that the details of the bull are removed and the image is still identifi
 
 ## Iteration vs. Looping
 
-We've already covered basic looping and you can refresh your memory [here](https://github.com/learn-co-curriculum/simple-loops). Now that you're all brushed up on simple looping, let's discuss the difference between looping and a new concept––iteration. **Looping** occurs when you tell your program to do something a certain number of times. **Iteration** occurs when you have a collection of data (for example, an array), and you operate on each member of that collection. 
+We've already covered basic looping and you can refresh your memory [here](https://learn.co/tracks/web-development-with-ruby-on-rails/ruby/looping/simple-loops). Now that you're all brushed up on simple looping, let's discuss the difference between looping and a new concept––iteration. **Looping** occurs when you tell your program to do something a certain number of times. **Iteration** occurs when you have a collection of data (for example, an array), and you operate on each member of that collection. 
 
 For example, if I tell my program to print out the phrase "I love programming" 5 times, that's a loop. If I tell my program to enumerate over the array `[1, 2, 3, 4, 5]` and add 10 to each number, that's iteration. 
 
