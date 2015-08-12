@@ -14,7 +14,7 @@ and the image is still identifiably a bull.*
 
 ## Iteration vs. Looping
 
-In previous readings we discussed the five loop types, `loop`, `times`, `while`, `until`, and `for`. Now we're going to discuss the difference between looping iteration. **Looping** occurs when you tell your program to do something a certain number of times. **Iteration** occurs when you have a collection of data (for example, an array), and you operate on each member of that collection. 
+In previous readings we discussed the five loop types, `loop`, `times`, `while`, `until`, and `for`. Now we're going to discuss the difference between looping and iteration. **Looping** occurs when you tell your program to do something a certain number of times. **Iteration** occurs when you have a collection of data (for example, an array), and you operate on each member of that collection. 
 
 For example, if I tell my program to print out the phrase "I love programming!" five times, that's *looping*. If I tell my program to enumerate over the array `[1, 2, 3, 4, 5]` and add `10` to each number, that's *iteration*. 
 
@@ -29,7 +29,7 @@ Imagine having a basket with ten (10) apples in it. What would you need to do to
 2. Keep track of how many apples you have taken out of the basket.
 3. Start a loop.
 4. If the count of apples you take out is less then the count of apples in the basket, take one out and increment the count of apples taken out by one.
-5. If the count of apples taken out is is less than to the count of apples originally in the basket, then break out of the loop.
+5. If the count of apples taken out is less than to the count of apples originally in the basket, then break out of the loop.
 
 This will ensure that we take out all the apples and never reach into the bucket once it's been emptied of apples.
 
