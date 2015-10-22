@@ -23,7 +23,7 @@ For example, if I tell my program to print out the phrase "I love programming!" 
 
 Let's talk about the algorithm required to go through all the individual items in a set.
 
-Imagine having a basket with ten (10) apples in it. What would you need to do to make sure that you took out all of the apples? You might think that it's enough to take an apple out of the basket one at a time. But that's not necessarily complete—at a certain point there will be no more apples in the basket; you will need to keep track of that or else you might never stop reaching in for more apples. The solution turns out to be a little more complex that it seemed at first; it might look like something like this:
+Imagine having a basket with ten (10) apples in it. What would you need to do to make sure that you took out all of the apples? You might think that it's enough to take an apple out of the basket one at a time. But that's not necessarily complete—at a certain point there will be no more apples in the basket; you will need to keep track of that or else you might never stop reaching in for more apples. The solution turns out to be a little more complex than it seemed at first; it might look like something like this:
 
 1. Keep track of how many apples there are in the basket.
 2. Keep track of how many apples you have taken out of the basket.
