@@ -2,8 +2,7 @@
 
 ![Picasso on Abstraction](http://ironboard-curriculum-content.s3.amazonaws.com/web-development/abstraction-bull.jpg)
 
-> *Notice that the details of the bull are removed  
-and the image is still identifiably a bull.*  
+> *Notice that the details of the bull are removed  and the image is still identifiably a bull.*  
 > — Pablo Picasso, on Abstraction.
 
 ## Objectives
