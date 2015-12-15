@@ -13,7 +13,7 @@
 
 ## Iteration vs. Looping
 
-In previous readings we discussed the five loop types, `loop`, `times`, `while`, `until`, and `for`. Now we're going to discuss the difference between looping and iteration. **Looping** occurs when you tell your program to do something a certain number of times. **Iteration** occurs when you have a collection of data (for example, an array), and you operate on each member of that collection. 
+In previous readings we discussed the four loop types, `loop`, `times`, `while`, `until`, and `for`. Now we're going to discuss the difference between looping and iteration. **Looping** occurs when you tell your program to do something a certain number of times. **Iteration** occurs when you have a collection of data (for example, an array), and you operate on each member of that collection. 
 
 For example, if I tell my program to print out the phrase "I love programming!" five times, that's *looping*. If I tell my program to enumerate over the array `[1, 2, 3, 4, 5]` and add `10` to each number, that's *iteration*. 
 
