@@ -89,4 +89,6 @@ end
 
 Here we see the full power of the Ruby iterators. To quote Kent Beck, "you don't use 3-4 lines to express iteration, you use one word." If you mean each apple, just say *each apple*. All the details of the algorithm are removed and replaced with the intention of our code, not the implementation of the algorithm.
 
+Don't worry if you're not fully grasping `each`. We'll cover this more in depth in subsequent lessons. 
+
 <a href='https://learn.co/lessons/iterators-and-abstraction-ruby' data-visibility='hidden'>View this lesson on Learn.co</a>
