@@ -71,7 +71,7 @@ while apples_taken_out < apples_in_basket
 end
 ```
 
-What we did here first was combine to steps 3 and 4 into a `while` loop—initializing a cycle of behavior based upon a condition, which is what the word `while` means both in Ruby and in English. Abstraction didn't make our code less clear, it rather made our code "absolutely precise". Brevity for the sake of brevity is silly, but our goal is to always express ourselves as clearly and honestly as possible. Because our loop is conditional from the start by using the `while` loop construct, we don't need to explicitly break out of it; this makes step 5 implicit.
+What we did here first was combine two steps 3 and 4 into a `while` loop—initializing a cycle of behavior based upon a condition, which is what the word `while` means both in Ruby and in English. Abstraction didn't make our code less clear, it rather made our code "absolutely precise". Brevity for the sake of brevity is silly, but our goal is to always express ourselves as clearly and honestly as possible. Because our loop is conditional from the start by using the `while` loop construct, we don't need to explicitly break out of it; this makes step 5 implicit.
 
 ## `each` - The Most Abstract
 
@@ -92,3 +92,5 @@ Here we see the full power of the Ruby iterators. To quote Kent Beck, "you don't
 Don't worry if you're not fully grasping `each`. We'll cover this more in depth in subsequent lessons. 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/iterators-and-abstraction-ruby' title='Enumeration and Iteration'>Enumeration and Iteration</a> on Learn.co and start learning to code for free.</p>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/iterators-and-abstraction-ruby'>Iteration and Abstraction</a> on Learn.co and start learning to code for free.</p>
