@@ -13,7 +13,7 @@
 
 ## Iteration vs. Looping
 
-In previous readings we discussed the four loop types, `loop`, `times`, `while`, and `until`. Now we're going to discuss the difference between looping and iteration. **Looping** occurs when you tell your program to do something a certain number of times. **Iteration** occurs when you have a collection of data (for example, an array), and you operate on each member of that collection. 
+In previous readings we discussed the four loop types, `loop`, `times`, `while`, and `for`. Now we're going to discuss the difference between looping and iteration. **Looping** occurs when you tell your program to do something a certain number of times. **Iteration** occurs when you have a collection of data (for example, an array), and you operate on each member of that collection. 
 
 For example, if I tell my program to print out the phrase "I love programming!" five times, that's *looping*. If I tell my program to enumerate over the array `[1, 2, 3, 4, 5]` and add `10` to each number, that's *iteration*. 
 
@@ -94,3 +94,5 @@ Don't worry if you're not fully grasping `each`. We'll cover this more in depth 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/iterators-and-abstraction-ruby' title='Enumeration and Iteration'>Enumeration and Iteration</a> on Learn.co and start learning to code for free.</p>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/iterators-and-abstraction-ruby'>Iteration and Abstraction</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/iterators-and-abstraction-ruby'>About Iteration and Abstraction</a> on Learn.co and start learning to code for free.</p>
