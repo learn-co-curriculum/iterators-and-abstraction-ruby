@@ -27,7 +27,7 @@ Imagine having a basket with ten (10) apples in it. What would you need to do to
 1. Keep track of how many apples there are in the basket.
 2. Keep track of how many apples you have taken out of the basket.
 3. Start a loop.
-4. If the count of apples you take out is less than the count of apples in the basket, take one out and increment the count of apples taken out by one.
+4. If the count of apples you take out is less than the count of apples originally in the basket, take one out and increment the count of apples taken out by one.
 5. If the count of apples taken out is NOT less than the count of apples originally in the basket, then break out of the loop.
 
 This will ensure that we take out all the apples and never reach into the basket once it's been emptied of apples.
