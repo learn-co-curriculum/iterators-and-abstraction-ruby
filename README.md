@@ -81,16 +81,15 @@ What we did here first was combine two steps 3 and 4 into a `while` loop—initi
 ```ruby
 basket = ["apple 1","apple 2","apple 3","apple 4","apple 5","apple 6","apple 7","apple 8","apple 9","apple 10"]
 
-# Step 1,2,3,4,5
+# Step 1,2,3,4,5 as one, abstractly
 basket.each do |apple|
-    puts "Taking out #{apple}"
+  puts "Taking out #{apple}"
+  apples_taken_out += 1
 end
 ```
 
 Here we see the full power of the Ruby iterators. To quote Kent Beck, "you don't use 3-4 lines to express iteration, you use one word." If you mean each apple, just say *each apple*. All the details of the algorithm are removed and replaced with the intention of our code, not the implementation of the algorithm.
 
 Don't worry if you're not fully grasping `each`. We'll cover this more in depth in subsequent lessons. 
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/iterators-and-abstraction-ruby' title='Enumeration and Iteration'>Enumeration and Iteration</a> on Learn.co and start learning to code for free.</p>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/iterators-and-abstraction-ruby'>Iteration and Abstraction</a> on Learn.co and start learning to code for free.</p>
