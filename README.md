@@ -84,7 +84,6 @@ basket = ["apple 1","apple 2","apple 3","apple 4","apple 5","apple 6","apple 7",
 # Step 1,2,3,4,5 as one, abstractly
 basket.each do |apple|
   puts "Taking out #{apple}"
-  apples_taken_out += 1
 end
 ```
 
