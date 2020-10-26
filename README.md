@@ -91,4 +91,4 @@ Here we see the full power of the Ruby iterators. To quote Kent Beck, "you don't
 
 Don't worry if you're not fully grasping `each`. We'll cover this more in depth in subsequent lessons. 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/iterators-and-abstraction-ruby'>Iteration and Abstraction</a> on Learn.co and start learning to code for free.</p>
+
